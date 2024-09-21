@@ -1,6 +1,7 @@
 // File: components/Features.tsx
 
 import React from 'react';
+
 import { FaUserCheck, FaRocket, FaClock, FaLightbulb } from 'react-icons/fa';
 
 interface FeatureProps {
